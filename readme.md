@@ -7,7 +7,7 @@ A PostgreSQL database for managing students, courses, insrtuctors, and enrollmen
 | Table | Description |
 | -----|-----------|
 |departments| Academic departments|
-|students| |student records|
+|students| student records|
 |instructors| teaching staff|
 |courses | available courses |
 |classes| course selections per semester |
